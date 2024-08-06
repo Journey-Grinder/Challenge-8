@@ -193,7 +193,7 @@ span{
 
     }
     .box-1{
-        
+        transform: translate(-7%,-5%);
     }
     .container{
         flex-direction: row;
